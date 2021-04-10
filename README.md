@@ -1,2 +1,2 @@
 # EmployeeManagement-FrontEnd
-View Master Branch for a code.
+View master branch for source code.
